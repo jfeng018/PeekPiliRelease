@@ -56,3 +56,6 @@ release/
 # 发布脚本文件夹
 scripts/
 
+# 日志文件夹
+rizhi/
+
